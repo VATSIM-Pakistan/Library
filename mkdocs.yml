@@ -1,0 +1,50 @@
+site_name: VATSIM Pakistan Library
+site_description: Official documentation, policies, airport briefings, and resources for VATSIM Pakistan.
+site_url: https://library.vatsim.pk
+
+theme:
+  name: material
+  logo: assets/logo-gold.png
+  favicon: assets/favicon.png
+  font:
+    text: Sora
+  palette:
+    - scheme: slate
+      primary: green
+      accent: amber
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+    - scheme: default
+      primary: green
+      accent: amber
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.top
+    - navigation.tracking
+    - search.highlight
+    - search.suggest
+    - content.code.copy
+
+plugins:
+  - search
+
+extra_css:
+  - stylesheets/extra.css
+
+nav:
+  - Home: index.md
+  - Policies:
+      - Overview: policies/index.md
+      - Constitution Policy: policies/constitution.md
+      - ATC Policy: policies/atc-policy.md
+      - Data Usage & Handling: policies/data-usage-and-handling.md
+  - Airport Briefings:
+      - Overview: airport-briefings/index.md
+      - Karachi / OPKC: airport-briefings/opkc.md
+      - Lahore / OPLA: airport-briefings/opla.md
+      - Islamabad / OPIS: airport-briefings/opis.md
