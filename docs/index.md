@@ -8,6 +8,7 @@ This library contains operational documents, policies, airport briefings, and pi
 
 - [Policies](policies/index.md)
 - [Airport Briefings](airport-briefings/index.md)
+- [Aerodrome Guides](aerodrome-guides/index.md)
 - [Karachi / OPKC Briefing](airport-briefings/opkc.md)
 - [Lahore / OPLA Briefing](airport-briefings/opla.md)
 - [Islamabad / OPIS Briefing](airport-briefings/opis.md)

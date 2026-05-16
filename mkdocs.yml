@@ -48,3 +48,8 @@ nav:
       - Karachi / OPKC: airport-briefings/opkc.md
       - Lahore / OPLA: airport-briefings/opla.md
       - Islamabad / OPIS: airport-briefings/opis.md
+  - Aerodrome Guides:
+      - Overview: aerodrome-guides/index.md
+      - Karachi / OPKC: aerodrome-guides/opkc.md
+      - Lahore / OPLA: aerodrome-guides/opla.md
+      - Islamabad / OPIS: aerodrome-guides/opis.md
