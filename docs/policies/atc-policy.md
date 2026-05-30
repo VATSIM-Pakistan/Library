@@ -65,6 +65,7 @@ This document has been created solely for use on the VATSIM network in support o
 - Pakistan vACC may only restrict access to positions, ratings, training or endorsements where permitted by GCAP, TVCP or higher-level VATSIM/VATWA policy.
 - If any part of this policy conflicts with VATSIM GCAP, VATSIM TVCP, the VATSIM Code of Conduct or VATWA policy, the higher-level policy shall prevail.
 - Policy changes shall be communicated through official Pakistan vACC and/or VATWA channels. Controllers are expected to remain aware of current policy and procedural revisions.
+
 ### 1.4 Acknowledgement
 
 Pakistan vACC acknowledges the work of previous Pakistan vACC leadership and training staff who prepared earlier versions of the ATC policy and training material. This updated draft builds upon Rev 1/2025 and restructures it for clearer GCAP/TVCP alignment.
@@ -82,6 +83,7 @@ Pakistan vACC is responsible for administering local ATC training and controller
 - Visiting controllers authorized to control within Pakistan vACC airspace.
 - Mentors, instructors, examiners and staff involved in ATC training and administration.
 - ATC positions and endorsements within Pakistan vACC airspace.
+
 ### 2.3 Precedence
 
 The order of precedence is: VATSIM Code of Regulations and Code of Conduct; VATSIM GCAP and TVCP; VATWA regional/divisional policy; this Pakistan vACC ATS Policy; local SOPs, LOAs and training documents. Local SOPs and training documents may explain procedures but must not create additional eligibility restrictions beyond this policy and GCAP/TVCP.
@@ -128,6 +130,7 @@ A controller may operate a Pakistan vACC position only when all of the following
 - the controller holds the minimum ATC rating required for the position;
 - where the position is designated, the controller holds the required endorsement or a valid solo endorsement covering that position; and
 - the controller is current and not subject to a valid restriction under this policy, GCAP, TVCP or VATWA policy. Top-down coverage shall apply in accordance with GCAP and local sectorization. A controller providing top down coverage does not need the endorsement for an underlying designated position while another endorsed controller is online on that underlying or adjacent position. If the endorsed controller logs off and the top-down controller lacks the required endorsement, the top-down controller must cease providing that designated service or log onto an appropriate position.
+
 ### 4.4 S1 Tower Authorization
 
 Pakistan vACC may only permit Developing Controllers (S1) to operate specified Tower positions independently where VATWA/Division approval exists and the approved positions are clearly published. Unless such approval and publication exists, S1 controllers are limited to S1-level positions except when receiving supervised training or holding a valid solo endorsement for the next rating.
@@ -156,6 +159,7 @@ Pakistan vACC shall not operate a Super Center designation unless approved throu
 - Designated status shall only be enforceable after approval by the competent authority and publication on the Pakistan vACC or VATWA website/roster.
 - The published list must show the designated position or group, the endorsement required, the effective date and the controllers authorized to operate the position or group.
 - Any change that materially alters the scope of a designation shall be reviewed through the appropriate Division/Region process before enforcement.
+
 ## 6. ATC Roster and Publication Requirements
 
 Pakistan vACC shall maintain or link to an ATC roster available to VATSIM account holders. The roster shall identify which controllers are authorized to control in Pakistan vACC airspace and, where applicable, the endorsements they hold. The roster shall include, as applicable: controller name, VATSIM CID, home/visitor/transfer status, rating, authorized positions or position groups, Tier 1/Tier 2/Super Center endorsements, solo endorsements with expiry dates, and any published restrictions relevant to position authorization. Solo endorsement expiry dates and designated position endorsements must be visible before they are enforced. Pakistan vACC staff shall update the roster as soon as practicable after rating upgrades, endorsement awards, removals, visitor approvals, transfer completions or reinstatements.
@@ -169,6 +173,7 @@ Pakistan vACC shall maintain or link to an ATC roster available to VATSIM accoun
 - Resident members shall request training through the official Pakistan HQ/training system.
 - Mentors and instructors shall record training sessions, trainee progress, recommendations and deficiencies in the approved training record system.
 - Trainees are expected to prepare using current Pakistan vACC manuals, SOPs, charts, sector files and any required VATWA e-learning material.
+
 ### 7.2 Written Examinations
 
 Written examinations shall assess rating knowledge and local procedure knowledge where appropriate. A score of not less than 90% is required to pass any written examination used for rating progression or endorsement issuance. Where an exam is failed, Pakistan vACC/VATWA may impose a cooling-off period to allow further study. The first written examination cooling-off period shall not exceed 72 hours. Any extended period after repeated failures shall follow VATWA policy and must remain reasonable and training-focused.
@@ -181,91 +186,41 @@ Practical training may be conducted on sweatbox/simulator sessions or the live V
 
 ### 8.1 OBS to S1 - Developing Controller
 
-## 22. Member joins or is allocated to Pakistan vACC and reviews the induction material.
-
-## 23. Member studies relevant S1 material covering clearance delivery, ground control, phraseology, basic
-
-coordination, flight plans, METAR/TAF interpretation and client setup.
-
-## 24. Member passes the required vACC and the divisional written examination with at least 90%.
-
-## 25. Upon completion of VATWA/Pakistan vACC administrative requirements, the S1 rating/authorization is
-
-processed, and the member may be rostered for S1-level positions.
-
-## 26. A practical familiarization session may be offered or recommended before the first live ATC session, but a
-
-practical exam is not required for the S1 rating unless higher-level policy changes.
+1. Member joins or is allocated to Pakistan vACC and reviews the induction material.
+2. Member studies relevant S1 material covering clearance delivery, ground control, phraseology, basic coordination, flight plans, METAR/TAF interpretation and client setup.
+3. Member passes the required vACC and the divisional written examination with at least 90%.
+4. Upon completion of VATWA/Pakistan vACC administrative requirements, the S1 rating/authorization is processed, and the member may be rostered for S1-level positions.
+5. A practical familiarization session may be offered or recommended before the first live ATC session, but a practical exam is not required for the S1 rating unless higher-level policy changes.
 
 ### 8.2 S1 to S2 - Aerodrome Controller
 
-## 27. Trainee meets any VATWA/Pakistan vACC approved consolidation or prerequisite requirement for S2
-
-training.
-
-## 28. Trainee studies tower control material including runway selection, departures, arrivals, circuit/VFR
-
-operations, wake turbulence, missed approaches/go-arounds, coordination and local aerodrome procedures.
-
-## 29. Trainee completes practical training with an approved mentor/instructor.
-
-## 30. Trainee passes the required written examination with at least 90%.
-
-## 31. Trainee may receive a valid S2 solo endorsement for specified _T_TWR position(s), where appropriate, for
-
-additional practice.
-
-## 32. Trainee undertakes and passes an approved S2 practical examination/CPT assessing S2 competencies on
-
-an Unrestricted Tower position or an approved equivalent pathway.
-
-## 33. The S2 rating is recommended and processed as soon as practicable after successful completion.
+1. Trainee meets any VATWA/Pakistan vACC approved consolidation or prerequisite requirement for S2 training.
+2. Trainee studies tower control material including runway selection, departures, arrivals, circuit/VFR operations, wake turbulence, missed approaches/go-arounds, coordination and local aerodrome procedures.
+3. Trainee completes practical training with an approved mentor/instructor.
+4. Trainee passes the required written examination with at least 90%.
+5. Trainee may receive a valid S2 solo endorsement for specified _T_TWR position(s), where appropriate, for additional practice.
+6. Trainee undertakes and passes an approved S2 practical examination/CPT assessing S2 competencies on an Unrestricted Tower position or an approved equivalent pathway.
+7. The S2 rating is recommended and processed as soon as practicable after successful completion.
 
 ### 8.3 S2 to S3 - Terminal Controller
 
-## 34. Trainee meets any VATWA/Pakistan vACC approved consolidation or prerequisite requirement for S3
-
-training.
-
-## 35. Trainee studies terminal procedures including arrival/departure control, airspace boundaries, separation,
-
-vectoring, speed/altitude control, approach clearances, holding, missed approach coordination and adjacent sector coordination.
-
-## 36. The trainee completes practical training with an approved mentor/instructor.
-
-## 37. Trainee passes the required written examination with at least 90%.
-
-## 38. Trainee may receive a valid solo endorsement for specified _T_APP/_T_DEP position(s), where
-
-appropriate.
-
-## 39. Trainee undertakes and passes an approved S3 practical examination/CPT assessing S3 competencies on
-
-an Unrestricted terminal position or an approved equivalent pathway.
-
-## 40. The S3 rating is recommended and processed as soon as practicable after successful completion.
+1. Trainee meets any VATWA/Pakistan vACC approved consolidation or prerequisite requirement for S3 training.
+2. Trainee studies terminal procedures including arrival/departure control, airspace boundaries, separation, vectoring, speed/altitude control, approach clearances, holding, missed approach coordination and adjacent sector coordination.
+3. The trainee completes practical training with an approved mentor/instructor.
+4. Trainee passes the required written examination with at least 90%.
+5. Trainee may receive a valid solo endorsement for specified _T_APP/_T_DEP position(s), where appropriate.
+6. Trainee undertakes and passes an approved S3 practical examination/CPT assessing S3 competencies on an Unrestricted terminal position or an approved equivalent pathway.
+7. The S3 rating is recommended and processed as soon as practicable after successful completion.
 
 ### 8.4 S3 to C1 - Enroute Controller
 
-## 41. Trainee meets any VATWA/Pakistan vACC approved consolidation or prerequisite requirement for C1
-
-training.
-
-## 42. Trainee studies enroute procedures including sector boundaries, top-down responsibilities, route
-
-structures, coordination, sequencing, surveillance/non-surveillance procedures where applicable, weather and traffic information, STAR/descent planning and inter-facility coordination.
-
-## 43. Trainee completes practical training with an approved mentor/instructor.
-
-## 44. Trainee passes the required written examination with at least 90%.
-
-## 45. Trainee may receive a valid solo endorsement for specified _T_CTR position(s), where appropriate.
-
-## 46. Trainee undertakes and passes an approved C1 practical examination/CPT assessing C1 competencies
-
-on an Unrestricted enroute position, or on a designated position only where GCAP permits and the assessment path still allows rating award based on Unrestricted competencies.
-
-## 47. The C1 rating is recommended and processed as soon as practicable after successful completion.
+1. Trainee meets any VATWA/Pakistan vACC approved consolidation or prerequisite requirement for C1 training.
+2. Trainee studies enroute procedures including sector boundaries, top-down responsibilities, route structures, coordination, sequencing, surveillance/non-surveillance procedures where applicable, weather and traffic information, STAR/descent planning and inter-facility coordination.
+3. Trainee completes practical training with an approved mentor/instructor.
+4. Trainee passes the required written examination with at least 90%.
+5. Trainee may receive a valid solo endorsement for specified _T_CTR position(s), where appropriate.
+6. Trainee undertakes and passes an approved C1 practical examination/CPT assessing C1 competencies on an Unrestricted enroute position, or on a designated position only where GCAP permits and the assessment path still allows rating award based on Unrestricted competencies.
+7. The C1 rating is recommended and processed as soon as practicable after successful completion.
 
 ### 8.5 C1 to C3 - Senior Controller
 
@@ -283,6 +238,7 @@ Pakistan vACC must provide a pathway for members to achieve ratings up to S3 tha
 - A solo endorsement must not be issued merely because practical training is unavailable.
 - Solo endorsement details, including expiry date, trainee name, CID and position, must be published on the Pakistan vACC/VATWA roster before use.
 - A solo endorsement may cover a Tier 1 or Tier 2 position only where approved by the Division and only for the specific position(s) listed. Typical solo endorsements in Pakistan vACC may include S1-to-S2 tower solo, S2-to-S3 approach/departure solo and S3-to-C1 enroute solo. The exact position(s), duration and restrictions shall be determined by staff based on trainee readiness, traffic expectations, mentor recommendations and GCAP limits.
+
 ## 10. Practical Examinations / CPTs
 
 ### 10.1 Purpose
@@ -295,6 +251,7 @@ A Controller Practical Test (CPT) or practical examination assesses whether the 
 - Live CPTs may be scheduled during events where appropriate, but the traffic level should allow a fair assessment of normal VATSIM operations and must not be artificially unreasonable.
 - A practical examination for S2, S3 or C1 rating progression shall include the required GCAP rating competencies for that rating.
 - A Tier 1 endorsement practical examination, where used, shall evaluate the additional competencies required for the Tier 1 position. A Tier 2 endorsement shall not require a practical examination.
+
 ### 10.3 Outcomes
 
 If a candidate passes, the rating or endorsement recommendation shall be processed as soon as practicable, with the goal of completion within 48 hours where administrative systems allow. If a candidate does not pass, the examiner shall provide clear feedback identifying the criteria or competencies that were deficient. The trainee shall receive a focused remedial training plan before another attempt is scheduled. Failure of a practical examination shall not be used punitively and shall not remove an existing rating unless a separate GCAP standards process is followed.
@@ -321,27 +278,14 @@ A controller returning after a long period of inactivity may be asked to complet
 - The applicant must have completed at least 50 hours on positions requiring their current rating in their home allocation before applying to visit, unless higher-level policy provides otherwise.
 - A visiting applicant may be rejected only for reasons permitted by TVCP, including ineligibility, disciplinary history within the last year, or failure to meet the visited allocation's published currency requirement assessed within the preceding two quarters.
 - Instructor ratings are for use within the home allocation and do not authorize a visitor to log on as an instructor in Pakistan vACC.
+
 ### 12.2 Application and Initial Authorization
 
-## 48. Visitor submits an application through Pakistan vACC HQ or the official application process published by
-
-VATWA/Pakistan vACC.
-
-## 49. Pakistan vACC verifies eligibility, rating, home allocation currency and any relevant disciplinary/currency
-
-information.
-
-## 50. Visitor completes the required local induction: documentation review, local procedure study and any
-
-permitted theory assessment or familiarization session.
-
-## 51. Pakistan vACC may require the visitor to obtain visiting status on Unrestricted positions and complete up to
-
-10 hours on those positions before seeking designated position endorsements.
-
-## 52. Once approved, the visitor is added to the published visitor roster showing authorized positions and
-
-endorsements.
+1. Visitor submits an application through Pakistan vACC HQ or the official application process published by VATWA/Pakistan vACC.
+2. Pakistan vACC verifies eligibility, rating, home allocation currency and any relevant disciplinary/currency information.
+3. Visitor completes the required local induction: documentation review, local procedure study and any permitted theory assessment or familiarization session.
+4. Pakistan vACC may require the visitor to obtain visiting status on Unrestricted positions and complete up to 10 hours on those positions before seeking designated position endorsements.
+5. Once approved, the visitor is added to the published visitor roster showing authorized positions and endorsements.
 
 ### 12.3 Visitor Training and Endorsements
 
@@ -353,6 +297,7 @@ Visitor training and assessment shall not exceed the minimum standard needed to 
 - Visitors must also meet Pakistan vACC's published roster currency requirement while on the Pakistan visitor roster.
 - A visitor who is no longer current in their home allocation may be removed from the Pakistan vACC visiting roster.
 - A visitor removed for currency may request reinstatement when current in their home allocation. First reinstatement shall follow the same currency reinstatement process as home members. If the visitor repeatedly loses currency within two years or does not request return within six months, Pakistan vACC may require a fresh visiting application.
+
 ## 13. Transfers
 
 ### 13.1 Eligibility and Process
@@ -362,6 +307,7 @@ Visitor training and assessment shall not exceed the minimum standard needed to 
 - A transfer request is normally not permitted until 90 days after a new rating award, a completed transfer, or return to a previous allocation after an incomplete transfer.
 - The transfer period is normally 90 days from approval/notification, subject to TVCP extensions where applicable.
 - A transfer request may only be rejected for reasons permitted by TVCP and, where required, with Division/sub-division agreement and written reasons.
+
 ### 13.2 Local Induction Plan
 
 For a transfer into Pakistan vACC from within the same Division, the Local Induction Plan shall not be more restrictive than procedure familiarization, documentation review, a theory assessment and/or up to 10 hours of unsupervised controlling for familiarity. Practical training and practical assessment shall not be required for intra-division transfers except permitted enroute familiarization sessions. For a transfer from another Division or Region, the Local Induction Plan may include a Competency Check on the live network where permitted by TVCP. Practical training may be offered or recommended, but the transferring controller may elect to proceed directly to the Competency Check where TVCP allows. The transfer is completed when the controller can operate Unrestricted positions up to their current rating in Pakistan vACC. On completion, Pakistan vACC/VATWA shall make the necessary member record and roster updates.
@@ -394,6 +340,7 @@ A controller who does not meet currency requirements may be removed from the ros
 - Tier 1 or Super Center endorsement currency may use an activity requirement that includes endorsed positions and positions capable of controlling the endorsed airspace top-down.
 - Tier 2 endorsement currency may only be based on acknowledgement of relevant procedure changes, not a separate activity-hours requirement.
 - An endorsement removed for currency may be reinstated immediately or through a focused plan no more restrictive than the original endorsement requirement or the GCAP currency reinstatement process.
+
 ## 15. ATC Sessions, Top-Down Coverage and Operational Conduct
 
 ### 15.1 Session Expectations
@@ -416,6 +363,7 @@ Shorter sessions may be reasonable due to real-life commitments, traffic levels 
 - Coordinate with active adjacent or underlying controllers before connecting where required.
 - Ensure controller client, audio client, sector files and plugins are current and functioning.
 - When joining during busy traffic, consider observing briefly before opening to avoid disrupting ongoing coordination.
+
 ### 15.3 Top-Down Service and Workload
 
 Controllers shall provide top-down coverage in accordance with GCAP, local SOPs and reasonable workload limits. Where a controller becomes overloaded, the controller may reduce top-down service or request pilots to expect delays. In extreme cases, the controller may withdraw top-down service from an airport or move to a smaller/split position where available.
@@ -431,6 +379,7 @@ Event rosters may be managed separately from ATC roster privileges. Failure to a
 - Instructors/examiners shall conduct practical examinations only where authorized and using approved criteria.
 - Training records shall be clear, objective, respectful and useful for the trainee's next session.
 - A trainee may request clarification of feedback or a training decision through the ATC Training Director or Pakistan vACC Director. Escalation to VATWA shall follow VATWA procedures.
+
 ## 17. Standards, Restrictions and Removal of Privileges
 
 Pakistan vACC's primary goal is to keep suitably rated controllers active and supported. Restricting or removing controlling privileges should be a last resort and shall follow GCAP/TVCP requirements.
@@ -440,6 +389,7 @@ Pakistan vACC's primary goal is to keep suitably rated controllers active and su
 - Any petition must be supported by reliable and sustained evidence and must be reviewed through the Division/Region process required by GCAP.
 - Possible restrictions may include removal of endorsements, removal from the roster, or ineligibility for training until the issue is resolved, where approved by the competent authority.
 - Disciplinary matters shall be handled under VATSIM/VATWA processes. This policy does not replace the VATSIM Code of Conduct or supervisor processes.
+
 ## 18. References
 
 Reference Document / Policy VATSIM-POL-GCAP VATSIM Global Controller Administration Policy, Version 1.1 VATSIM-POL-TVCP VATSIM Transfer and Visiting Controller Policy, Version 2.0 VATSIM Code of Conduct Current VATSIM member conduct policy VATWA Policy / HQ Procedures Applicable VATWA division/subdivision training, rostering and ticketing procedures Pakistan vACC ATC Manual / SOPs / LOAs Local procedures, sectorization, coordination and operational guidance
