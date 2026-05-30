@@ -4,7 +4,7 @@
 
 New Islamabad International Airport (OPIS) is the second-busiest airport in Pakistan, located in the capital, Islamabad. It serves as a major hub for domestic and international traffic, particularly to the Middle East, Europe, and North America.
 
-The airport features modern infrastructure and supports wide-body operations including B777 and A330 aircraft. :contentReference[oaicite:0]{index=0}
+The airport features modern infrastructure and supports wide-body operations including B777 and A330 aircraft.
 
 ---
 

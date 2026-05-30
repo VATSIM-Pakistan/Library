@@ -4,7 +4,7 @@
 
 Allama Iqbal International Airport (OPLA) is a major international airport located in Lahore. It handles a mix of domestic and international operations, including wide-body traffic.
 
-The airport experiences peak congestion during evening hours. :contentReference[oaicite:1]{index=1}
+The airport experiences peak congestion during evening hours.
 
 ---
 
